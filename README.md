@@ -120,12 +120,3 @@
 * Thanks for reading!
 * SPECIAL NOTE: When running through Tuffix, socket functions that retrieved addresses would be different (127.0.0.1 and 127.0.1.1). This caused connectivity issues and would recommend running on any another OS. 
 <br/><br/>
-
-
-
-
-
-
-
-# cpsc471-ftp-project
-Python application allowing a client to upload &amp; download files to &amp; from server
