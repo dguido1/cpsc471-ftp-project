@@ -106,17 +106,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ezgif com-optimize](https://github.com/drotter120/CPSC471-ftp-project/blob/master/demo/get-00.png)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here we request and download [`server-data.txt`](/uploads/server-data.txt) from the server to the clients computer
 
----
 <br>
 
+***
 
-## Credits
-<br>
+<br/>
+Thanks for reading!<br/><br/>
+ 
+If you like what you see give this repo  
+a star and share it with your friends.
 
+Your support is greatly appreciated!<br/><br/>
 
-
-<br><br>
-
-* Thanks for reading!
-* SPECIAL NOTE: When running through Tuffix, socket functions that retrieved addresses would be different (127.0.0.1 and 127.0.1.1). This caused connectivity issues and would recommend running on any another OS. 
 <br/><br/>
