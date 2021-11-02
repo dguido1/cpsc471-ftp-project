@@ -2,7 +2,7 @@
 ### Python application allowing a client to upload & download files to & from server
 <br>
 
-
+#### &nbsp;&nbsp;&nbsp;&nbsp;Made by [@acberton](https://github.com/acberton), [@dguido1](https://github.com/dguido1), [@drotter120](https://github.com/drotter120) & [@justinpoblete](https://github.com/justinpoblete)
 #### &nbsp;&nbsp;&nbsp;&nbsp;For CPSC 471 - Computer Communication at [***California State University Fullerton***](http://www.fullerton.edu/)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spring 21'
 
 <br>
